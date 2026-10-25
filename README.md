@@ -10,7 +10,7 @@
 | Role | Name | Student ID | GitHub Profile |
 | :--- | :--- | :--- | :--- |
 | **Repository Owner (Student A)** | Tughan Bulut Kurtulus | **73454** | [@73454tughan](https://github.com/73454tughan) |
-| **Collaborator (Student B)** | Cihan Karayigit | **70407** | [@cihankara70407](https://github.com/cihankara70407) |
+| **Collaborator (Student B)** | Umid Kalbizada | **72995** | [@umud72995](https://github.com/umud72995) |
 
 ---
 
